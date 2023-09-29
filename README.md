@@ -6,7 +6,7 @@ These are the changes I want to make.
 # Quiz 8
 ## Part 1: Imaging Technique Inspiration
 ### Example 1: The Starry Night Stereo VR Experience
-![Example1.1](assets/Example1.1.png)![Example1.2](assets/Example1.2.png) 
+< img src="assets/Example1.1.png" width="425"/> < img src="assets/Example1.2.png" width="425"/>
 ![Example1.3](assets/Example1.3.png)![Example1.4](assets/Example1.4.png)
 ### Example 2: Starry Night (interactive animation) for iOS and Android
 ![Example2.1](assets/Example2.1.png "title-1")![Example2.2](assets/Example2.2.png "title-2")![Example2.3](assets/Example2.3.png "title-3")
