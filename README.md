@@ -5,10 +5,10 @@ These are the changes I want to make.
 
 # Quiz 8
 ## Part 1: Imaging Technique Inspiration
-#### Example 1: The Starry Night Stereo VR Experience
+### Example 1: The Starry Night Stereo VR Experience
 ![Example1.1](assets/Example1.1.png)![Example1.2](assets/Example1.2.png) 
 ![Example1.3](assets/Example1.3.png)![Example1.4](assets/Example1.4.png) 
-#### Example 2: Starry Night (interactive animation) for iOS and Android
+### Example 2: Starry Night (interactive animation) for iOS and Android
 ![Example2.1](assets/Example2.1.png "title-1")![Example2.2](assets/Example2.2.png "title-2")![Example2.3](assets/Example2.3.png "title-3")
 
 My plan is to generate the interaction image. The original painting is not vivid and clear enough to show the real scene to the audience. As for the specific imaging technique, I intend to employ panoramic photography and 3D rendering to bring the paintings to life in a virtual environment. Via 360-degree view animation or use 3D zoom to dive into the landscape and give the audience a vivid immersion. Users can use their hands to drive the flows and create new variations.
