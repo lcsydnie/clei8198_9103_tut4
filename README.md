@@ -19,3 +19,4 @@ Links to an external site.)
 
 # Quiz 8
 ## Part 1: Imaging Technique Inspiration
+#### Example 1: The Starry Night Stereo VR Experience
